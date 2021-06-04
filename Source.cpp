@@ -1,4 +1,4 @@
-////chana cohen 324245935
+
 //targil 8 shela 2
 // to tor with stack so put value 0-10 it tor 
 #include <string>
